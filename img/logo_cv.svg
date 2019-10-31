@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" style="vector-effect: non-scaling-stroke;">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <defs style="vector-effect: non-scaling-stroke;">
+  <radialGradient cx="0.5" cy="0.5" id="svg_90" r="0.5" spreadMethod="pad" style="vector-effect: non-scaling-stroke;">
+   <stop offset="0" stop-color="#000000" stop-opacity="0" style="vector-effect: non-scaling-stroke;"/>
+   <stop offset="1" stop-color="#020202" style="vector-effect: non-scaling-stroke;"/>
+   <stop offset="1" stop-color="#000000" stop-opacity="0" style="vector-effect: non-scaling-stroke;"/>
+  </radialGradient>
+  <linearGradient id="svg_263" style="vector-effect: non-scaling-stroke;" x1="1" x2="1" y1="1" y2="0">
+   <stop offset="0" stop-color="#000000" style="vector-effect: non-scaling-stroke;"/>
+   <stop offset="0.144792" stop-color="#ffffff" style="vector-effect: non-scaling-stroke;"/>
+   <stop offset="0.863542" stop-color="#ffffff" stop-opacity="0.996094" style="vector-effect: non-scaling-stroke;"/>
+   <stop offset="0.972917" stop-color="#000000" stop-opacity="0.996094" style="vector-effect: non-scaling-stroke;"/>
+  </linearGradient>
+  <linearGradient id="svg_276" style="vector-effect: non-scaling-stroke;" x1="0" x2="1" y1="1" y2="0">
+   <stop offset="0" stop-color="#000000" style="vector-effect: non-scaling-stroke;"/>
+   <stop offset="0.090104" stop-color="#5656ff" stop-opacity="0.996094" style="vector-effect: non-scaling-stroke;"/>
+   <stop offset="0.176042" stop-color="#000000" stop-opacity="0.996094" style="vector-effect: non-scaling-stroke;"/>
+   <stop offset="0.265885" stop-color="#5656ff" stop-opacity="0.996094" style="vector-effect: non-scaling-stroke;"/>
+   <stop offset="0.351823" stop-color="#000000" stop-opacity="0.996094" style="vector-effect: non-scaling-stroke;"/>
+   <stop offset="0.445573" stop-color="#5656ff" stop-opacity="0.996094" style="vector-effect: non-scaling-stroke;"/>
+   <stop offset="0.551042" stop-color="#000000" stop-opacity="0.996094" style="vector-effect: non-scaling-stroke;"/>
+   <stop offset="0.660417" stop-color="#5656ff" stop-opacity="0.996094" style="vector-effect: non-scaling-stroke;"/>
+   <stop offset="0.773698" stop-color="#000000" stop-opacity="0.996094" style="vector-effect: non-scaling-stroke;"/>
+   <stop offset="0.867448" stop-color="#5656ff" stop-opacity="0.996094" style="vector-effect: non-scaling-stroke;"/>
+   <stop offset="1" stop-color="#000000" stop-opacity="0.996094" style="vector-effect: non-scaling-stroke;"/>
+  </linearGradient>
+  <radialGradient id="svg_460" spreadMethod="pad">
+   <stop offset="0.951107" stop-color="#000000" stop-opacity="0.996094"/>
+   <stop offset="0.955013" stop-color="#ffffff" stop-opacity="0.996094"/>
+   <stop offset="0.994076" stop-color="#000000"/>
+   <stop offset="1" stop-color="#ffffff"/>
+   <stop offset="1.001888" stop-color="0" stop-opacity="0"/>
+  </radialGradient>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <rect fill="url(#svg_460)" height="470.000026" id="svg_348" opacity="0.95" stroke="#ffffff" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="0" stroke-width="14" width="557.000055" x="43.350054" y="5.733372"/>
+  <path d="m304.051055,393.203221l7.463687,-339.041574l29.854744,0l-7.463687,339.041574l-29.854744,0z" fill="#000000" id="svg_363" opacity="0.95" stroke="#ffffff" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="9" transform="rotate(6.4876, 322.711, 223.682)"/>
+  <path d="m207.900373,239.801818l112.66786,-113.893817l112.668125,113.893817l-112.668125,113.893817l-112.66786,-113.893817z" fill="#000000" id="svg_377" opacity="0.95" stroke="#ffffff" stroke-dasharray="null" stroke-linecap="null" stroke-width="12" transform="rotate(-38.8249, 320.568, 239.801)"/>
+  <polygon fill="none" id="svg_18"/>
+  <polygon fill="none" id="svg_20"/>
+  <polygon fill="none" id="svg_21"/>
+  <ellipse cx="119.60001" cy="40.96668" fill="#000000" fill-opacity="0" id="svg_94" rx="0" ry="1" stroke="url(#svg_90)" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="9"/>
+  <ellipse cx="101.899994" cy="239.633331" fill="none" fill-opacity="0" id="svg_13" rx="0" ry="1" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null"/>
+  <text fill="#000000" fill-opacity="0" font-family="Serif" font-size="11" id="svg_38" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" text-anchor="middle" x="757.899994" xml:space="preserve" y="437.633331"/>
+  <ellipse cx="-132.100006" cy="154.633331" fill="none" id="svg_74" rx="1" ry="0" stroke="#ffffff" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="4"/>
+  <rect fill="none" fill-opacity="0" height="1" id="svg_109" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" width="0" x="-244.100006" y="132.633331"/>
+  <polygon cx="-225.133331" cy="145.483337" fill="#000000" id="svg_137" orient="point" point="5" r="0" r2="0" shape="star" strokeWidth="9" strokecolor="#5656ff"/>
+  <rect fill="url(#svg_263)" height="2" id="svg_310" stroke="url(#svg_276)" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="10" width="0" x="202.233337" y="169.06665"/>
+  <path d="m312.088441,221.049431l22.970265,-20.236934l-22.970265,-20.236934l13.127988,-11.565831l36.101966,31.802765l-36.101966,31.812578" fill="#ffffff" id="svg_324" opacity="0.95" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="4" transform="rotate(-19.0493, 336.705, 200.816)"/>
+  <path d="m283.377441,204.127834l31.117824,-32.435816l0,97.307429l-31.117824,32.435798l0,-97.307412z" fill="#ffffff" id="svg_337" opacity="0.95" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="4" transform="rotate(-0.259897, 298.938, 236.562)"/>
+  <path d="m218.698518,84.908068l-140.60468,153.532549l140.620917,153.514827l51.143735,-55.826796l-89.493418,-97.688031l89.477182,-97.670308l-51.143735,-55.862241zm205.792647,0l-51.111263,55.844518l89.477182,97.670308l-89.477182,97.670308l51.111263,55.826796l140.637153,-153.514827l-140.637153,-153.497104z" fill="#000000" id="svg_315" stroke="#ffffff" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="12" transform="rotate(-1.06943, 321.611, 238.432)"/>
+  <path d="m356.291895,233.164346l-24.782655,-22.749862l0,68.249573l24.782655,22.74985l0,-68.249561z" fill="#ffffff" id="svg_338" opacity="0.95" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="4" transform="rotate(-18.35, 343.902, 255.914)"/>
+ </g>
+</svg>
